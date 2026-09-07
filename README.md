@@ -1,7 +1,7 @@
 # Assignment tut2
 
 ## Goal
-To gain insight from tiktok videos.
+To gain insight from tiktok videos. Changed it again.
 
 ## Data
 - Main file: video_view.csv

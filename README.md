@@ -1,7 +1,7 @@
-# Project title
+# Assignment tut2
 
 ## Goal
-Short project objective.
+To gain insight from tiktok videos.
 
 ## Data
 - Main file: video_view.csv
